@@ -1,8 +1,8 @@
 {
   "name": "xms-util-static",
-  "version": "1.0.1",
-  "description": "A Vue.js project",
-  "author": "peng.huagen <phg@4846.com>",
+  "version": "1.0.2",
+  "description": "工具类包",
+  "author": "peng.huagen",
   "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -16,6 +16,10 @@
   "dependencies": {
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/penghuagen/xms-util-static"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
