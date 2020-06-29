@@ -1,7 +1,7 @@
 {
   "name": "xms-util-static",
   "version": "1.0.2",
-  "description": "工具类包",
+  "description": "xms-util-static",
   "author": "peng.huagen",
   "private": false,
   "scripts": {
@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vant": "^2.8.1"
   },
   "repository": {
     "type": "git",
