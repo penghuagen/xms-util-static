@@ -39,7 +39,7 @@ function callAppAliPay (param, callback) {
     this.callAppMethod('appAliPay', param, callback)
   } catch (e) {
     alert({
-      message: '支付失败,请升级APP至最新版本,谢谢支持'
+      message: '支付失败12,请升级APP至最新版本,谢谢支持'
     })
   }
 }
